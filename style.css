@@ -1,0 +1,56 @@
+.container{
+    width: 500px;
+    height: 500px;
+    
+}
+
+.top-row{
+    background-color: red;
+}
+
+.bottom-row{
+    height: 150px;
+    background-color: white;
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+    border: 14px solid black;
+    
+}
+
+.small-blue{
+    height: 150px;
+    width: 85px;
+    background-color: blue;
+    border: 16px solid black;
+    border-left: 0px solid black;
+    border-top: 14px solid black;
+    margin-bottom: 2px;
+}
+
+
+
+.right-white{
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    border: 12px solid black;
+    border-right: 0px solid black;
+}
+
+.right-yellow{
+    height: 60px;
+    width: 60px;
+    background-color: yellow;
+    border: 12px solid black;
+    border-top: 0px solid black;
+    border-right: 0px solid black;
+}
+
+.white-top-square-one, .white-top-square-two{
+height: 150px;
+width: 90px;
+background-color: white;
+border: 14px solid black;
+}
+
